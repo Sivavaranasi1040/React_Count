@@ -423,7 +423,7 @@ h2 {
 
 /* Styling for counters section */
 .counters-container {
-  background-color: rgb(155, 212, 238);
+  background-color: rgb(223, 240, 169);
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -443,7 +443,7 @@ h2 {
 
 /* Individual counter box styling */
 .counter {
-  background-color: rgb(235, 190, 170);
+  background-color: rgb(186, 241, 219);
   padding: 15px;
   border-radius: 8px;
   text-align: center;
